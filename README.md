@@ -21,7 +21,7 @@ The repository includes code and documentation for the following website project
 
 ## 🚀 Live Demo & Repository Links
 
-* **GitHub Repository:** `https://github.com/ST10493769/WEDE5020_POE`
+* **GitHub Repository:** `https://github.com/olwe366/AgriDirectSA.git
 * **GitHub Pages Deployment (AgriDirect SA):** `https://ST10493769.github.io/WEDE5020_POE/agridirect/`
 
 
