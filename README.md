@@ -1,4 +1,4 @@
-# AgriDirectSA
+AgriDirect-SA
 Portfolio of Evidence (WEDE5020) - Web Development
 Institution: IIE Rosebank College
 Student Name: Olwethu Simphiwe Mkhize
