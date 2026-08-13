@@ -1,22 +1,35 @@
-AgriDirect-SA
-Portfolio of Evidence (WEDE5020) - Web Development
-Institution: IIE Rosebank College
-Student Name: Olwethu Simphiwe Mkhize
-Student Number: ST10493769
-Module: Web Development (WEDE5020)
-Academic Year: 2026
+# AgriDirect-SA
+# Portfolio of Evidence (WEDE5020) - Web Development
 
-📌 Project Overview
-This repository contains the full Portfolio of Evidence (PoE) submission for WEDE5020, spanning Part 1 (Semantic HTML5 Architecture), Part 2 (CSS Styling & Responsive Layouts), and Part 3 (Dynamic JavaScript & Form Validation).
+**Institution:** IIE Rosebank College  
+**Student Name:** Olwethu Simphiwe Mkhize  
+**Student Number:** ST10493769  
+**Module:** Web Development (WEDE5020)  
+**Academic Year:** 2026  
+
+---
+
+## 📌 Project Overview
+
+This repository contains the full Portfolio of Evidence (PoE) submission for **WEDE5020**, spanning **Part 1 (Semantic HTML5 Architecture)**, **Part 2 (CSS Styling & Responsive Layouts)**, and **Part 3 (Dynamic JavaScript & Form Validation)**.
 
 The repository includes code and documentation for the following website projects:
+1. **AgriDirect SA:** A digital B2B marketplace platform connecting smallholder produce farmers directly with commercial buyers (restaurants, caterers, and grocers) to eliminate middleman markups.
+2. **DriveSmart Foundation:** A community-focused non-profit platform providing low-income buyers with access to reliable used vehicle inspections, educational workshops, paperwork support, and fair financing guidance.
 
-AgriDirect SA: A digital B2B marketplace platform connecting smallholder produce farmers directly with commercial buyers (restaurants, caterers, and grocers) to eliminate middleman markups.
-DriveSmart Foundation: A community-focused non-profit platform providing low-income buyers with access to reliable used vehicle inspections, educational workshops, paperwork support, and fair financing guidance.
-🚀 Live Demo & Repository Links
-GitHub Repository: https://github.com/ST10493769/WEDE5020_POE
-GitHub Pages Deployment (AgriDirect SA): https://ST10493769.github.io/WEDE5020_POE/agridirect/
-📁 Repository Folder Structure
+---
+
+## 🚀 Live Demo & Repository Links
+
+* **GitHub Repository:** `https://github.com/ST10493769/WEDE5020_POE`
+* **GitHub Pages Deployment (AgriDirect SA):** `https://ST10493769.github.io/WEDE5020_POE/agridirect/`
+
+
+---
+
+## 📁 Repository Folder Structure
+
+```text
 WEDE5020_POE/
 │
 ├── README.md                           # Main Project Documentation & Marking Guide
@@ -61,4 +74,4 @@ Responsive Layout: Flexbox cards adapting cleanly across desktop, tablet, and mo
 
 git clone [https://github.com/ST10493769/WEDE5020_POE.git](https://github.com/ST10493769/WEDE5020_POE.git)
 
-📋 PoE Compliance Checklist[x] Part 1: Semantic HTML5 page layout, sitemap implementation, and initial project proposals. 
+📋 PoE Compliance Checklist[x] Part 1: Semantic HTML5 page layout, sitemap implementation, and initial project proposals.  [x] Part 2: Standard CSS styling, responsive media queries, grid systems, and color contrast adherence.  [x] Part 3: Client-side JavaScript form validation, event listeners, dynamic DOM elements, and GitHub Pages staging[cite: 1, 2].👤 Author InformationStudent: Olwethu Simphiwe MkhizeStudent ID: ST10493769Institution: IIE Rosebank College (Durban Campus)Course: Diploma in IT (Software Development)
